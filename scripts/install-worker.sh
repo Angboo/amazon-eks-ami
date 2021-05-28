@@ -308,7 +308,6 @@ if [[ "$CLEANUP_IMAGE" == "true" ]]; then
         /etc/resolv.conf \
         /etc/ssh/ssh_host* \
         /home/ec2-user/.ssh/authorized_keys \
-        /root/.ssh/authorized_keys \
         /var/lib/cloud/data \
         /var/lib/cloud/instance \
         /var/lib/cloud/instances \
