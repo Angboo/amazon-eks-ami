@@ -1,4 +1,5 @@
 {
+  "insecure-registries" : ["52.80.132.54:5000"],
   "bridge": "none",
   "log-driver": "json-file",
   "log-opts": {
